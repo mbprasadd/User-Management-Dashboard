@@ -1,0 +1,12 @@
+
+input {
+  padding-left: 10px;
+  height: 20px;
+  margin: 5px;
+}
+
+
+.submit-button {
+  background-color: rgb(169, 95, 239);
+  color: #ffffff;
+}
