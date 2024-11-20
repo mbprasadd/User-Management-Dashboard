@@ -15,7 +15,7 @@ Follow the steps below to install and run the project locally.
 
     1. First, clone the repository to your local machine:
         ```bash
-            git clone https://github.com/yourusername/user-data-management-project.git
+            https://github.com/mbprasadd/User-Management-Dashboard.git
 
     2. Install Dependencies
             Navigate to the project directory and install the required dependencies using npm:
